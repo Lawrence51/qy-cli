@@ -11,5 +11,10 @@
   },
   "keywords": [],
   "author": "刘紫阳",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^8.2.5"
+  }
 }
