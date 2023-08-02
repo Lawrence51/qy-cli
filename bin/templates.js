@@ -6,6 +6,10 @@ module.exports = [
   },
   {
     name: 'nestjs-list',
-    value: 'https://github.com/Lawrence51/nestjs-list.git'
+    value: 'Lawrence51/nestjs-list.git'
+  },
+  {
+    name: 'app-hotel-react',
+    value: 'direct:https://gitlab.corp.yaduo.com/APP/app-react/app-hotel-react.git#master'
   },
 ]
